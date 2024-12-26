@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Django
+db.sqlite3
+/media/
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Scrapyd logs
+scrapy.log
+
+# Git Ignore files for build
+/build/
